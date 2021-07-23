@@ -3,8 +3,10 @@ import shutil
 
 
 def banner():
-    print("--------Amir Shamsi---------")
-    print("Visit me in GitHub!--->EmirShamsi")
+    print("----------------------------------")
+    print("Visit me in GitHub!--->Amir-Shamsi")
+    print("----------------------------------")
+    
 banner()
 cmd = input("Enter 1 if you wanna extract hidden files or 2 to hide your files behind a picture: ")
 while cmd not in ("1", "2"):
